@@ -1,0 +1,25 @@
+{
+    "version": "1",
+    "list": [
+        {
+            "name": "T1",
+            "file": "/templates/t1.json"
+        },
+        {
+            "name": "T2",
+            "file": "/templates/t2.json"
+        },
+        {
+            "name": "T3",
+            "file": "/templates/t3.json"
+        },
+        {
+            "name": "T4",
+            "file": "/templates/t4.json"
+        },
+        {
+            "name": "T5",
+            "file": "/templates/t5.json"
+        }
+    ]
+}

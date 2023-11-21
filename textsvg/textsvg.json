@@ -1,0 +1,50 @@
+{
+  "version": "1",
+  "ref": "https://maketext.io/",
+  "list": [
+    {
+      "name": "t1",
+      "config": {
+        "text": "hello",
+        "color_1": "#ee4208",
+        "color_2": "#4139ff"
+      }
+    },
+    {
+      "name": "t2",
+      "config": {
+        "text": "hello"
+      }
+    },
+    {
+      "name": "t3",
+      "config": {
+        "text": "hello"
+      }
+    },
+    {
+      "name": "t4",
+      "config": {
+        "text": "hello"
+      }
+    },
+    {
+      "name": "t5",
+      "config": {
+        "text": "hello"
+      }
+    },
+    {
+      "name": "t6",
+      "config": {
+        "text": "hello"
+      }
+    },
+    {
+      "name": "t7",
+      "config": {
+        "text": "hello"
+      }
+    }
+  ]
+}
