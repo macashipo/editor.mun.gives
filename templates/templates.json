@@ -3,11 +3,21 @@
   "list": [
     {
       "name": "Aifruitbox 1",
+      "hide": true,
       "file": "/templates/aifruitbox1.json"
     },
     {
+      "name": "Aifruitbox 1a",
+      "file": "/templates/aifruitbox1a.json"
+    },
+    {
       "name": "Aifruitbox 2",
+      "hide": true,
       "file": "/templates/aifruitbox2.json"
+    },
+    {
+      "name": "Aifruitbox 2a",
+      "file": "/templates/aifruitbox2a.json"
     }
   ]
 }
